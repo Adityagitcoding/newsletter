@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.footer{
+    background-color: #1d1817;
+    padding-top: 10px;
+    
+   
+}
+.row{
+    display: flex;
+    flex-wrap:wrap;
+}
+ ul{
+    list-style: none;
+    color: #cbcbcb;
+    padding: 0;
+}
+li a{
+    color: #cbcbcb;
+    text-decoration: none;
+    
+}
+li a i{
+  font-size: 30px;
+  margin-top: 6px;
+  
+}
+.footercol{
+    padding-left: 120px;
+}
+
+.footercol h4{
+    font-size: 20px;
+    color:#cbcbcb ;
+}
+.copyright{
+    color:white;
+     text-align:center;
+     background-color: gray;
+     padding-top: 5px ;
+}
